@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.main {
+    width: 800px;
+    height: 530px;
+    margin: auto;
+    padding: 0;
+}
+
+.m_view {
+    width: 800px;
+    height: 400px;
+}
+
+.m_control {
+    width: 800px;
+    height: 124px;
+    text-align: left;
+
+}
+
+#img4 {
+    margin-right: 0;
+}
+
+.m_control ul li {
+    width: 192px;
+    height: 124px;
+    margin: 6px 3px 0 3px;
+    display: block;
+    float: left;
+}
+
+.cloumn_first {
+    margin-left: 0;
+}
+
+.cloumn_end {
+    margin-right: 0;
+}
+
+.style {
+    border: 2px solid #888888;
+}

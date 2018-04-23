@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+.main {
+    width: 800px;
+    height: 530px;
+    margin: auto;
+    padding: 0px;
+}
+
+.m_view {
+    width: 800px;
+    height: 400px;
+}
+
+.m_control {
+    width: 800px;
+    height: 124px;
+    text-align: left;
+    margin-top: 6px;
+}
+
+.m_control ul li {
+    width: 192px;
+    height: 124px;
+    margin: 0px 5px;
+    display: block;
+    float: left;
+}
+
+.m_control ul li:first-child {
+    margin-left: 0px;
+}
+
+.m_control ul li:last-child {
+    margin-right: 0px;
+}
